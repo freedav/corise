@@ -1,5 +1,4 @@
 #%%writefile streamlit_app.py
-pip install plotly
 import pandas as pd
 import plotly.express as px
 import streamlit as st
